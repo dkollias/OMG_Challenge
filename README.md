@@ -1,7 +1,7 @@
 # OMG_Challenge
 
 This repository contains: train and evaluation scripts (train_script.py and eval_script.py), their models (AffWildNet.py and AffWildNet_valid.py) and a script used by the train and evaluation scripts for processing the data (data_process.py) .
-To be more exact each script has flags:
+To be more exact each script has flags (one can find more detailed explanation withing each script) :
 - train_script flags: 
 
                initial_learning_rate 
