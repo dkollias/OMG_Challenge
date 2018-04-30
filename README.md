@@ -30,6 +30,8 @@ To be more exact each script has flags:
 Dependencies:
 
 numpy : we are using version 1.13.1
+
 tensorflow: we are using version 1.1.0 
+
 (we also use tensorflow.contrib.slim : slim is part of tensorflow after version 1.0)
 
