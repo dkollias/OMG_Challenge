@@ -2,7 +2,7 @@
 
 This repository contains: train and evaluation scripts (train_script.py and eval_script.py), their models (AffWildNet.py and AffWildNet_valid.py) and a script used by the train and evaluation scripts for processing the data (data_process.py) .
 To be more exact each script has flags:
-- train_script: 
+- train_script flags: 
 
                initial_learning_rate 
                
@@ -25,7 +25,7 @@ To be more exact each script has flags:
                pretrained_model_checkpoint_path 
 
 
-- eval_script: 
+- eval_script flags: 
 
                batch_size
                
