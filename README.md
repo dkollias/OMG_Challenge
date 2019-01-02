@@ -1,5 +1,19 @@
 # OMG_Challenge
 
+In OMG-Emotion Challenge 2018, our ADSC team's submissions ranked 1st for vision-only arousal/valence prediction and 2nd for overall valence prediction!
+
+This repository contains our solution to the OMG-Emotion Challenge 2018 -using only visual data- that ranked 2nd for vision-only valence estimation and 2nd for overall valence estimation.
+
+If you use our scripts please cite the paper: 
+A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild
+
+>@article{kollias2018multi,
+  title={A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild},
+  author={Kollias, Dimitrios and Zafeiriou, Stefanos},
+  journal={arXiv preprint arXiv:1805.01452},
+  year={2018}
+}
+
 This repository contains: train and evaluation scripts (train_script.py and eval_script.py), their models (AffWildNet.py and AffWildNet_valid.py) and a script used by the train and evaluation scripts for processing the data (data_process.py) .
 To be more exact each script has flags (one can find more detailed explanation withing each script) :
 - train_script flags: 
