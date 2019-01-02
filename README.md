@@ -3,6 +3,7 @@
 This repository contains our solution to the OMG-Emotion Challenge 2018 -using only visual data- that ranked 2nd for vision-only valence estimation and 2nd for overall valence estimation.
 
 If you use our scripts please cite the paper: 
+
 A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild
 
 >@article{kollias2018multi,
