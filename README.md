@@ -1,7 +1,5 @@
 # OMG_Challenge
 
-In OMG-Emotion Challenge 2018, our ADSC team's submissions ranked 1st for vision-only arousal/valence prediction and 2nd for overall valence prediction!
-
 This repository contains our solution to the OMG-Emotion Challenge 2018 -using only visual data- that ranked 2nd for vision-only valence estimation and 2nd for overall valence estimation.
 
 If you use our scripts please cite the paper: 
