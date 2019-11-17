@@ -2,15 +2,24 @@
 
 This repository contains our solution to the OMG-Emotion Challenge 2018 -using only visual data- that ranked 2nd for vision-only valence estimation and 2nd for overall valence estimation.
 
-If you use our scripts please cite the paper: 
+If you use our scripts please cite the papers: 
 
-A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild
+1) A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild
 
 >@article{kollias2018multi,
   title={A Multi-component CNN-RNN Approach for Dimensional Emotion Recognition in-the-wild},
   author={Kollias, Dimitrios and Zafeiriou, Stefanos},
   journal={arXiv preprint arXiv:1805.01452},
   year={2018}
+}
+
+2) Exploiting multi-CNN features in CNN-RNN based Dimensional Emotion Recognition on the OMG in-the-wild Dataset
+
+>@article{kollias2019exploiting,
+  title={Exploiting multi-cnn features in cnn-rnn based dimensional emotion recognition on the omg in-the-wild dataset},
+  author={Kollias, Dimitrios and Zafeiriou, Stefanos},
+  journal={arXiv preprint arXiv:1910.01417},
+  year={2019}
 }
 
 This repository contains: train and evaluation scripts (train_script.py and eval_script.py), their models (AffWildNet.py and AffWildNet_valid.py) and a script used by the train and evaluation scripts for processing the data (data_process.py) .
